@@ -2,98 +2,95 @@
     Solar Trade ☀️
 </h1>
 
-This project was developed as part of the Human Computer Interation (IPC) at FEUP with the goal of studying User-Centered Design and focusing on creating user-friendly interfaces.
+This project was developed as part of the Human Computer Interaction (IPC) at FEUP with the goal of studying User-Centered Design and focusing on creating user-friendly interfaces.
 
 ## What is Solar Trade?
-It is a mobile app prototype designed to help users manage and optimize their solar
-panel systems. It allows users to monitor energy production and consumption in real-time,
-perform auto-repairs through embedded robots, and sell excess energy to the grid, including
-international markets.
+It is a mobile app prototype designed to help users manage and optimize their solar panel systems. It allows users to monitor energy production and consumption in real-time, perform auto-repairs through embedded robots, and sell excess energy to the grid, including international markets.
 
 
 ## Wireflows
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture1.png" height=50%>
-    <figcaption>Figure 1: Overview and Detailed Solar Power Usage</figcaption>
-</figure>
+    Figure 1: Overview and Detailed Solar Power Usage
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture2.png" height=50%>
-    <figcaption>Figure 2: Detailed Energy Consumption</figcaption>
-</figure>
+    Figure 2: Detailed Energy Consumption
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture3.png" height=50%>
-    <figcaption>Figure 3: Manage My Panels</figcaption>
-</figure>
+    Figure 3: Manage My Panels
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture4.png" height=50%>
-    <figcaption>Figure 4: Solar Panel Details</figcaption>
-</figure>
+    Figure 4: Solar Panel Details
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture5.png" height=50%>
-    <figcaption>Figure 5: Repair Tutorial</figcaption>
-</figure>
+    Figure 5: Repair Tutorial
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture6.png" height=50%>
-    <figcaption>Figure 6: Start Auto-Repair</figcaption>
-</figure>
+    Figure 6: Start Auto-Repair
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture7.png" height=50%>
-    <figcaption>Figure 7: Schedule a Repair</figcaption>
-</figure>
+    Figure 7: Schedule a Repair
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture8.png" height=50%>
-    <figcaption>Figure 8: Navigate the Trade Market</figcaption>
-</figure>
+    Figure 8: Navigate the Trade Market
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture9.png" height=50%>
-    <figcaption>Figure 9: Market Details</figcaption>
-</figure>
+    Figure 9: Market Details
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture10.png" height=50%>
-    <figcaption>Figure 10: Donate Energy</figcaption>
-</figure>
+    Figure 10: Donate Energy
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture11.png" height=50%>
-    <figcaption>Figure 11: Sell Energy</figcaption>
-</figure>
+    Figure 11: Sell Energy
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture12.png" height=50%>
-    <figcaption>Figure 12: Buy Energy</figcaption>
-</figure>
+    Figure 12: Buy Energy
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture13.png" height=50%>
-    <figcaption>Figure 13: Settings</figcaption>
-</figure>
+    Figure 13: Settings
+</p>
 <br>
 
-<figure align="center">
+<p align="center">
     <img src="img/Picture14.png" height=50%>
-    <figcaption>Figure 14: Guiding Screens and Pop-ups</figcaption>
-</figure>
+    Figure 14: Guiding Screens and Pop-ups
+</p>
 <br>
 
