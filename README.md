@@ -9,6 +9,9 @@ It is a mobile app prototype designed to help users manage and optimize their so
 
 
 ## Wireflows
+To access the full-functional prototype, you can access through [Figma link](https://www.figma.com/design/FvVJ3jX7gXm0H9XTRxfobE/IPC-FINAL?node-id=0-1&t=ggJfHAPVQrwfzMN9-1).
+
+For a more detailed description of the wireflows, you can access the [Final Report](final-report-SolarTrade.pdf).
 
 <p align="center">
     <img src="img/Picture1.png" width=70%></br>
@@ -93,4 +96,12 @@ It is a mobile app prototype designed to help users manage and optimize their so
     Figure 14: Guiding Screens and Pop-ups
 </p>
 <br>
+
+
+## Usability Tests
+We tested our product using [Maze](https://maze.co/), to get a detailed report of click rates, error rates, and task realization rates. 
+
+The results can be found in the [Final Report](final-report-SolarTrade.pdf).
+
+
 
