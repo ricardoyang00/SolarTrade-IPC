@@ -5,13 +5,13 @@
 This project was developed as part of the Human Computer Interaction (IPC) at FEUP with the goal of studying User-Centered Design and focusing on creating user-friendly interfaces.
 
 ## What is Solar Trade?
-It is a mobile app prototype designed to help users manage and optimize their solar panel systems. It allows users to monitor energy production and consumption in real-time, perform auto-repairs through embedded robots, and sell excess energy to the grid, including international markets.
+It is a mobile app prototype designed to help users manage and optimize their solar panel systems. It allows users to **monitor energy production and consumption** in real-time, perform **auto-repairs** through embedded robots, and **sell excess energy** to the grid, including international markets.
 
 
 ## Wireflows
-To access the full-functional prototype, you can access through [Figma link](https://www.figma.com/design/FvVJ3jX7gXm0H9XTRxfobE/IPC-FINAL?node-id=0-1&t=ggJfHAPVQrwfzMN9-1).
+To access the full-functional prototype, visit the [Figma link](https://www.figma.com/design/FvVJ3jX7gXm0H9XTRxfobE/IPC-FINAL?node-id=0-1&t=ggJfHAPVQrwfzMN9-1).
 
-For a more detailed description of the wireflows, you can access the [Final Report](final-report-SolarTrade.pdf).
+For a more detailed description of the wireflows, explore the [Final Report](final-report-SolarTrade.pdf).
 
 <p align="center">
     <img src="img/Picture1.png" width=70%></br>
@@ -101,7 +101,7 @@ For a more detailed description of the wireflows, you can access the [Final Repo
 ## Usability Tests
 We tested our product using [Maze](https://maze.co/), to get a detailed report of click rates, error rates, and task realization rates. 
 
-The results can be found in the [Final Report](final-report-SolarTrade.pdf).
+The results can also be found in the [Final Report](final-report-SolarTrade.pdf).
 
 
 
